@@ -1,1 +1,2 @@
 # Gonchan
+# studing programing
